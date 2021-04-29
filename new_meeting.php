@@ -21,7 +21,7 @@
                     <tr><td>Meeting Name: </td><td><input type="varchar" name="Meeting_Name"></td></tr>
                     <tr><td>Meeting Description: </td><td><input type="varchar" name="Meeting_Description"></td></tr>
                     <tr><td>Meeting DateTime: </td><td><input type="datetime" name="Meeting_DateTime"></td></tr>
-                    <tr><td>Meeting Duration: </td><td><input type="time" name="Meeting_Duration"></td></tr>
+                    <tr><td>Meeting Duration: </td><td><input type="int" name="Meeting_Duration"></td></tr>
                     <tr><td>Room ID: </td><td><input type="varchar" name="Meeting_Room_ID"></td></tr>                
                     <tr><td><input type="submit" value="Submit"></td><td></td>
                 </table>
